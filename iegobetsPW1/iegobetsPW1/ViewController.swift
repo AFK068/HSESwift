@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var button: UIButton!
     
     // MARK: -Lifecycle
-    override func viewDidLoad() {
+    override func viewDidLoad() { 
         super.viewDidLoad()
     }
     
